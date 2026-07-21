@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://salistamba.github.io/serdtse-praktiki-dhammy/sitemap.xml
+Sitemap: https://salistamba.github.io/the-heart-of-dhamma-practice/sitemap.xml
